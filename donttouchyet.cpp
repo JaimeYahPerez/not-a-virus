@@ -1,3 +1,5 @@
+//This code isnt mine https://github.com/kaiserfarrell/malware <-- where I got it from
+//\/ all of this is just reference
 // ---[ w0rm.cpp ]-----------------------------[ http://harmony.haxors.com ]--//
 //
 // An exploration into remote network propogation using multiple techniques.
